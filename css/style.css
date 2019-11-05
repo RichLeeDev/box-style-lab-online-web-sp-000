@@ -68,7 +68,7 @@ div {
 
 .bg {
   /* The image used */
-  background-image: relative("./images/white-wood.");
+  background-image: relative("./images/white-wood.jpg");
 
   /* Full height */
   height: 100%;
